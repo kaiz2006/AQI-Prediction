@@ -9,7 +9,7 @@ The goal of this project is to analyze environmental parameters and build a pred
 
 Air pollution is one of the biggest environmental challenges worldwide. Monitoring and predicting **Air Quality Index (AQI)** helps governments and individuals take preventive actions to protect public health.
 
-This project uses **data analysis and machine learning techniques** to predict AQI based on pollutant levels and environmental factors.
+This project uses **Facebook Prophet Model** to predict AQI based on pollutant levels and environmental factors.
 
 ---
 
@@ -30,10 +30,8 @@ This project uses **data analysis and machine learning techniques** to predict A
 - **Jupyter Notebook**
 - **Pandas**
 - **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- **Scikit-learn**
-
+- **Facebook Prophet**
+  
 ---
 
 
